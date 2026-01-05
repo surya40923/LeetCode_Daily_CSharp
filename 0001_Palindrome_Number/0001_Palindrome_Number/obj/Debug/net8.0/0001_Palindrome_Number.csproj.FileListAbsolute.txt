@@ -1,0 +1,14 @@
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\bin\Debug\net8.0\0001_Palindrome_Number.exe
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\bin\Debug\net8.0\0001_Palindrome_Number.deps.json
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\bin\Debug\net8.0\0001_Palindrome_Number.runtimeconfig.json
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\bin\Debug\net8.0\0001_Palindrome_Number.dll
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\bin\Debug\net8.0\0001_Palindrome_Number.pdb
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\0001_Palindrome_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\0001_Palindrome_Number.AssemblyInfoInputs.cache
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\0001_Palindrome_Number.AssemblyInfo.cs
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\0001_Palindrome_Number.csproj.CoreCompileInputs.cache
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\0001_Palindrome_Number.dll
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\refint\0001_Palindrome_Number.dll
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\0001_Palindrome_Number.pdb
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\0001_Palindrome_Number.genruntimeconfig.cache
+C:\Users\Surya J\source\repos\0001_Palindrome_Number\0001_Palindrome_Number\obj\Debug\net8.0\ref\0001_Palindrome_Number.dll
