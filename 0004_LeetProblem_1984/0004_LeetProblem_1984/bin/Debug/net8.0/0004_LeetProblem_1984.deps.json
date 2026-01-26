@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "0004_LeetProblem_1984/1.0.0": {
+        "runtime": {
+          "0004_LeetProblem_1984.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0004_LeetProblem_1984/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

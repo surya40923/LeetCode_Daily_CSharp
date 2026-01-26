@@ -1,0 +1,14 @@
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\bin\Debug\net8.0\0004_LeetProblem_1984.exe
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\bin\Debug\net8.0\0004_LeetProblem_1984.deps.json
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\bin\Debug\net8.0\0004_LeetProblem_1984.runtimeconfig.json
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\bin\Debug\net8.0\0004_LeetProblem_1984.dll
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\bin\Debug\net8.0\0004_LeetProblem_1984.pdb
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\0004_LeetProblem_1984.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\0004_LeetProblem_1984.AssemblyInfoInputs.cache
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\0004_LeetProblem_1984.AssemblyInfo.cs
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\0004_LeetProblem_1984.csproj.CoreCompileInputs.cache
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\0004_LeetProblem_1984.dll
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\refint\0004_LeetProblem_1984.dll
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\0004_LeetProblem_1984.pdb
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\0004_LeetProblem_1984.genruntimeconfig.cache
+C:\Users\Surya J\source\repos\0004_LeetProblem_1984\0004_LeetProblem_1984\obj\Debug\net8.0\ref\0004_LeetProblem_1984.dll
