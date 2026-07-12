@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Leet_1331/1.0.0": {
+        "runtime": {
+          "Leet_1331.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leet_1331/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
