@@ -35,7 +35,7 @@
         }
 
         /*
-        public IList<int> FindDisappearedNumbers(int[] nums)
+        public static IList<int> FindDisappearedNumbers(int[] nums)
         {
             HashSet<int> set = new HashSet<int>();
 
