@@ -1,0 +1,14 @@
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\bin\Debug\net8.0\Leet_3069.exe
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\bin\Debug\net8.0\Leet_3069.deps.json
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\bin\Debug\net8.0\Leet_3069.runtimeconfig.json
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\bin\Debug\net8.0\Leet_3069.dll
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\bin\Debug\net8.0\Leet_3069.pdb
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\Leet_3069.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\Leet_3069.AssemblyInfoInputs.cache
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\Leet_3069.AssemblyInfo.cs
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\Leet_3069.csproj.CoreCompileInputs.cache
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\Leet_3069.dll
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\refint\Leet_3069.dll
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\Leet_3069.pdb
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\Leet_3069.genruntimeconfig.cache
+C:\Users\Surya J\OneDrive\Desktop\LeetCode_Uploader\Leet_3069\Leet_3069\obj\Debug\net8.0\ref\Leet_3069.dll
